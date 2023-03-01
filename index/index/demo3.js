@@ -61,7 +61,6 @@ function removeItem(e){
       itemList.removeChild(li);
     }
   }
-}
 
 // Filter Items
 function filterItems(e){
